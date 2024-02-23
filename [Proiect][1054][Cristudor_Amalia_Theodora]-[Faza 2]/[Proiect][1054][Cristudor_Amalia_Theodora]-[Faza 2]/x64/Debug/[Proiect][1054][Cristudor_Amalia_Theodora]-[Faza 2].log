@@ -1,0 +1,8 @@
+﻿  Faza 2.cpp
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(149,11): warning C4129: 'I': unrecognized character escape sequence
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(155,11): warning C4129: 'I': unrecognized character escape sequence
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(177,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(379,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(703,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\Faza 2.cpp(876,7): warning C4101: 'alegere': unreferenced local variable
+  [Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2].vcxproj -> C:\Users\crama\OneDrive\Documents\POO\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2]\x64\Debug\[Proiect][1054][Cristudor_Amalia_Theodora]-[Faza 2].exe
